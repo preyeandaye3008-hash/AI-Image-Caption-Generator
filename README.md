@@ -2,11 +2,6 @@ AI Image Caption Generator
 
 A Streamlit web app that generates captions for any image you upload using AI. Powered by the Hugging Face nlpconnect/vit-gpt2-image-captioning model, it can describe your images in natural language.
 
-🚀 Demo:
-
-(Replace with your deployed Streamlit link once live)
-👉 Live App on Streamlit Cloud
-
 💡 Features
 
 🖼️ Upload JPG, JPEG, PNG, or WEBP images
